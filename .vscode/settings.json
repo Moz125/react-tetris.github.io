@@ -1,0 +1,14 @@
+{
+  "emmet.excludeLanguages": ["markdown"],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "cSpell.words": [
+    "random",
+    "random tetromino",
+    "rotated",
+    "rotated tetro",
+    "tetro",
+    "tetromino"
+  ]
+}

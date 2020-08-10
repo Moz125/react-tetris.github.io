@@ -1,0 +1,9 @@
+body {
+  margin: 0px;
+  /* background: url('/static/media/bg.2810fe6b.png') #000; */
+}
+
+@font-face {
+  font-family: 'Pixel';
+  src: url('./font/Pixel-LCD-7.woff') format('woff');
+}
